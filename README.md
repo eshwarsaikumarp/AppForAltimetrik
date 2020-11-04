@@ -12,6 +12,30 @@ Project name is a `NotYetDecided` :D .
 
 Trying to create an entire architecture to make a large scale web applications by using MERN
 
+## ROADMAP
+
+Going to add
+
+* Custom hook examples
+* Few Common components `like Text field`
+* `Notification bar`
+* `Error boundary Component`
+* Global Loader `circular progress bar`
+* Local loader `skeletons`
+* Scss
+* Dev mode setup
+* Add alias in webpack config
+* Enable source maps
+* Error codes
+* Redefine routing structure
+* Containers
+* Dynamic Loading (async loading)
+* Global header,section and footers,
+* Password encryption (cryptojs)
+* Global styles and theme
+* Idle timeout check for redirecting to login
+* mixins
+
 ## Prerequisites
 
 Before you begin, ensure you have met the following requirements:
@@ -20,9 +44,9 @@ Before you begin, ensure you have met the following requirements:
 * You have a `<Windows/Mac>` machine. supprots both OS.
 * You have read `<documentation_related_to_project>`.
 
-## Installing <NotYetDecided>
+## Installing NotYetDecided
 
-To install <NotYetDecided>, follow these steps:
+To install NotYetDecided, follow these steps:
 
 To Start React Application:
 ```
@@ -37,9 +61,9 @@ npm install
 npm start
 ```
 
-## Contributing to <NotYetDecided>
+## Contributing to NotYetDecided
 <!--- If your README is long or you have some specific process or steps you want contributors to follow, consider creating a separate CONTRIBUTING.md file--->
-To contribute to <NotYetDecided>, follow these steps:
+To contribute to NotYetDecided, follow these steps:
 
 1. Fork this repository.
 2. Create a branch: `git checkout -b <branch_name>`.
