@@ -32,6 +32,9 @@ Going to add
 * Dynamic Loading (async loading)
 * Global header,section and footers,
 * Password encryption (cryptojs)
+* Internationalization support
+* Server validations
+* Virtual Lists 
 * Global styles and theme
 * Idle timeout check for redirecting to login
 * mixins
