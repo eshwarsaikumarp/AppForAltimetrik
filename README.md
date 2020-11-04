@@ -4,8 +4,8 @@
 <!--- These are examples. See https://shields.io for others or to customize this set of shields. You might want to include dependencies, project status and licence info here --->
 ![GitHub repo size](https://img.shields.io/github/repo-size/eshwarsaikumarp/AppForAltimetrik)
 ![GitHub contributors](https://img.shields.io/github/contributors/eshwarsaikumarp/AppForAltimetrik)
-![GitHub stars](https://img.shields.io/github/stars/eshwarsaikumarp/AppForAltimetrik/README.md?style=social)
-![GitHub forks](https://img.shields.io/github/forks/eshwarsaikumarp/AppForAltimetrik/README.md?style=social)
+![GitHub stars](https://img.shields.io/github/stars/eshwarsaikumarp/AppForAltimetrik?style=social)
+![GitHub forks](https://img.shields.io/github/forks/eshwarsaikumarp/AppForAltimetrik?tyle=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/coffebite494?style=social)
 
 Project name is a `NotYetDecided` :D .
