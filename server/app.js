@@ -2,7 +2,7 @@ const express = require("express");
 router = express.Router();
 const mongoose = require("mongoose");
 // const url = "mongodb://localhost:27017/raghu_DB";
-const url = "mongodb+srv://CoffebiteUser:<password>@coffebitescluster.cld9c.mongodb.net/sai?retryWrites=true&w=majority"
+const url = "mongodb+srv://CoffebiteUser:<addYourpassword>@coffebitescluster.cld9c.mongodb.net/sai?retryWrites=true&w=majority"
 const app = express();
 var cors = require('cors')
 app.use(function(req, res, next) {
